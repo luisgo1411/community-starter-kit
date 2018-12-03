@@ -1,10 +1,16 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Its a bot that helps you to interact whit your github pipeline:
+
+- Simplify communication with chatops tools.
+- Get the all the info from a single chat.
+- Promote automated pipelines and collaboration in github repositories.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- See all the forks, commits, pull request from a single tool.
+- Interact with it human readeble.
+- Easy integration with any chatops tool.
 
 ## Getting started
 
